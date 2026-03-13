@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    background-color: aqua;
+}
+
+h2{
+    margin: 5vh;
+}
+button{
+    background-color: white;
+    margin: 5vh;
+    border-radius: 10px;
+    font-size: 1.5rem;
+}
+
+
+.number{
+    text-decoration: underline;
+}
+
+.result{
+    margin: 5vh;
+}
